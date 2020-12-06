@@ -1,6 +1,8 @@
 ### Hi there, welcome to my page👋
 
-- 🔭 I’m currently working on ...
+- 🥺 I’m currently doing research in soft matter & biological physics.
+- 🥺 I sometimes work as kubernetes engineer.
+- 🥺 I love The Midnight Gospel on Netflix.
 
 <!--
 **shuzokato/shuzokato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
