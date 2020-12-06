@@ -1,7 +1,7 @@
 ### Hi there, welcome to my page👋
 
-- 🥺 I’m currently doing research in soft matter & biological physics.
-- 🥺 I sometimes work as kubernetes engineer.
+- 🦔 I’m currently doing research in soft matter & biological physics.
+- 🐳 I sometimes work as kubernetes engineer.
 - 🥺 I love The Midnight Gospel on Netflix.
 
 <!--
