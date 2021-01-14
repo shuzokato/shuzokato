@@ -1,8 +1,8 @@
 ### Hi there, welcome to my page👋
 
 - 🦔 I’m currently doing research in soft matter & biological physics.
-- 🐳 I sometimes work as kubernetes engineer.
-- 🥺 I love The Midnight Gospel on Netflix.
+- 🐳 I sometimes work as software engineer.
+- 🥺 I love indie music.
 
 <!--
 **shuzokato/shuzokato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
