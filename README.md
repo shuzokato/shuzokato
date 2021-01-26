@@ -1,8 +1,8 @@
 ### Hi there, welcome to my page👋
 
-- 🦔  I’m currently doing research in soft matter & biological physics (my work is available [here](https://arxiv.org/abs/2101.05184)).
-- 🐳  I sometimes work as software engineer.
-- 🥺  I love indie music. (my recent favorite is jizue.)
+- 🦔   I’m master student mainly working in soft matter & biological physics (my work is available [here](https://arxiv.org/abs/2101.05184)).
+- 🐳   I sometimes work as software engineer.
+- 🥺   I love indie music. (my recent favorite is still corners.)
 
 <!--
 **shuzokato/shuzokato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
